@@ -6,6 +6,8 @@ A Front-End Developer, I studied computer science. I have +5 years of work exper
 - 🔭 I’m currently working as Frontend Developer on [Tafarda Studio](https://tafarda.studio/).
 - 🌱 I’m currently learning **Three.js** & **Framer Motion**.
 
+### In Touch:
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ehsanmolaei991)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/ehsanmolaei991)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:ehsanmolaei991@gmail.com) 
