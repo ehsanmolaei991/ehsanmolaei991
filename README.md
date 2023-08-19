@@ -1,7 +1,7 @@
 ##### Hi there
-# I AM Ehsan Molaei 👋
+# I Am Ehsan Molaei 👋
 
-A Front-End Developer, I studied computer science. I have +5 years of work experience, I have built web and mobile apps with good performance and clean UI by React and Next.js framework and I'm passionate to challenge myself to implement hard UIs with smooth animations.
+As a Front-End Engineer, I studied computer science. I have +5 years of work experience, I have built web and mobile apps with good performance and clean UI by React and Next.js framework and I'm passionate to challenge myself to implement hard UIs with smooth animations.
 
 - 🔭 I’m currently working as Frontend Developer on [Tafarda Studio](https://tafarda.studio/).
 - 🌱 I’m currently learning **Three.js** & **Framer Motion**.
@@ -15,7 +15,7 @@ A Front-End Developer, I studied computer science. I have +5 years of work exper
 
 ### Languages and Tools:
 
-<p align="left" bgColor="#fff"> 
+<div align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -52,4 +52,4 @@ A Front-End Developer, I studied computer science. I have +5 years of work exper
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
-</p>
+</div>
