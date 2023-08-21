@@ -16,40 +16,28 @@ As a Front-End Engineer, I studied computer science. I have +5 years of work exp
 ### Languages and Tools:
 
 <div align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="babel" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+  ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
+    <br/>
+  ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
+  ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
+  ![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+  ![ReactQuery](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
+  ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux&logoColor=764ABC)
+    <br/>
+  ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss)
+  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+    <br/>
+  ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
+  ![Confluence](https://img.shields.io/badge/-Confluence-000?&logo=confluence)
 </div>
