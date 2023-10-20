@@ -32,6 +32,7 @@ As a Front-End Engineer, I studied computer science. I have +5 years of work exp
   ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
   ![ReactQuery](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
   ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux&logoColor=764ABC)
+  ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook&logoColor=#FF4785)
     <br/>
   ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
