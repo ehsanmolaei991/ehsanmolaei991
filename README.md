@@ -1,9 +1,11 @@
 ##### Hi there
 # I Am Ehsan Molaei 👋
 
-As a Front-End Engineer, I studied computer science. I have +5 years of work experience, I have built web and mobile apps with good performance and clean UI by React and Next.js framework and I'm passionate to challenge myself to implement hard UIs with smooth animations.
+A graduate student of computer science with 6+ years of experience in web and mobile application development with React, NextJS, and React Native technologies. One of my most interesting hobbies is searching and learning new technologies. I'm crazy about implementing details like micro-animations and smooth UI. In addition, I'm always trying to improve the performance of my code and follow a clean code structure.
 
-- 🔭 I’m currently working as Frontend Developer on [Tafarda Studio](https://tafarda.studio/).
+<br/>
+
+- 🔭 I’m currently working as a Frontend Developer on [Tafarda Studio](https://tafarda.studio/).
 - 🌱 I’m currently learning **Three.js** & **Framer Motion**.
 
 ### In Touch:
@@ -23,6 +25,7 @@ As a Front-End Engineer, I studied computer science. I have +5 years of work exp
   ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![React Native](https://img.shields.io/badge/ReactNative-000.svg?logo=react&logoColor=React)
   ![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
     <br/>
   ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
@@ -33,12 +36,17 @@ As a Front-End Engineer, I studied computer science. I have +5 years of work exp
   ![ReactQuery](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
   ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux&logoColor=764ABC)
   ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook&logoColor=#FF4785)
+  ![React Router](https://img.shields.io/badge/React_Router-000?logo=react-router&logoColor=CA4245)
     <br/>
   ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss)
+  ![MUI](https://img.shields.io/badge/MUI-000.svg?logo=mui&logoColor=230081CB)
   ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+  ![Chart.js](https://img.shields.io/badge/Chart.js-000.svg?logo=chart.js&logoColor=F5788D)
     <br/>
   ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
   ![Confluence](https://img.shields.io/badge/-Confluence-000?&logo=confluence)
+  ![Figma](https://img.shields.io/badge/Figma-000.svg?logo=figma&logoColor=white) 
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?logo=Adobe%20XD&logoColor=#FF61F6)
 </div>
