@@ -1,11 +1,11 @@
 ##### Hi there
 # I Am Ehsan Molaei 👋
 
-A graduate student of computer science with 6+ years of experience in web and mobile application development with React, NextJS, and React Native technologies. One of my most interesting hobbies is searching and learning new technologies. I'm crazy about implementing details like micro-animations and smooth UI. In addition, I'm always trying to improve the performance of my code and follow a clean code structure.
+A graduate student of computer science with 6+ years of experience in web and mobile application development with React, NextJS, and React Native technologies. One of my most interesting hobbies is searching and learning new technologies. I'm crazy about implementing details like micro-animations and smooth UI.
 
 <br/>
 
-- 🔭 I’m currently working as a Frontend Developer on [Tafarda Studio](https://tafarda.studio/).
+- 🔭 I’m currently working as a Frontend Developer.
 - 🌱 I’m currently learning **Three.js** & **Framer Motion**.
 
 ### In Touch:
